@@ -11,8 +11,9 @@ dependencies = [
     "ipywidgets>=8.1.7",
     "litellm>=1.67.5",
     "openai>=1.78.1",
+    "openinference-instrumentation-openai>=0.1.28",
     "openinference-instrumentation-smolagents>=0.1.11",
     "python-dotenv>=1.1.0",
-    "smolagents[azure,mcp]>=1.16.1",
+    "smolagents[mcp]>=1.16.1",
     "vec2text>=0.0.13",
 ]
