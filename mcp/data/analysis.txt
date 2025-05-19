@@ -1,0 +1,1 @@
+GenAI, short for Generative Artificial Intelligence, is a type of AI that can create new content, such as text, images, audio, and video, based on existing data. It mimics human creativity by learning patterns and structures from vast datasets and then generating new data that resembles what it has learned. 
