@@ -2,7 +2,6 @@
 # uv run fastmcp run tool_shadowing.py --transport sse --port 8000
 
 from fastmcp import FastMCP
-import os
 
 mcp = FastMCP("MCP tool shadowing server 🚀")
 
