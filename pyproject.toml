@@ -6,6 +6,7 @@ readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
     "arize-phoenix-otel>=0.9.2",
+    "chromadb>=1.0.9",
     "fastmcp>=2.3.4",
     "ipykernel>=6.29.5",
     "ipywidgets>=8.1.7",
@@ -13,6 +14,7 @@ dependencies = [
     "openai>=1.78.1",
     "openinference-instrumentation-openai>=0.1.28",
     "openinference-instrumentation-smolagents>=0.1.11",
+    "pypdf>=5.5.0",
     "python-dotenv>=1.1.0",
     "smolagents[mcp]>=1.16.1",
     "vec2text>=0.0.13",
